@@ -1,6 +1,6 @@
-# BreakTime: Word Puzzles — Support
+# BreakTime: Word Play — Support
 
-Public support and privacy page for the iOS app **BreakTime: Word Puzzles**.
+Public support and privacy page for the iOS app **BreakTime: Word Play**.
 
 Served by GitHub Pages from `index.html` on the `main` branch.
 
